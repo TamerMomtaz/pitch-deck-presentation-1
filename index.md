@@ -72,8 +72,8 @@ Traditional moats:
 - Three channels: Founder Network, Digital Marketing, Partnerships
 
 ### 14. Team
-- Tee (Founder & CEO) - Plant Director with 15+ years
-- Technical Co-Founder position highlighted
+- example (Founder & CEO) - experience
+- Technical Co-Founder position highlighted example
 
 ### 15. Financials
 - Path to €50M ARR and 40% EBITDA margin over 5 years
